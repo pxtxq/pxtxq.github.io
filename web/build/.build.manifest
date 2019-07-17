@@ -1,4 +1,6 @@
 .packages
+assets/AssetManifest.json
+assets/fonts/MaterialIcons-Regular.ttf
 index.html
 main.dart.js
 packages/$sdk/_internal/ddc_sdk.sum
